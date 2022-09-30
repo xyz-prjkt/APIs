@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "programingVideos": [
+        {
+          "title": "Konsep dan Prinsip Gizi pada Ibu Hamil",
+          "description": "Pada pembahasan kali ini, kita akan belajar mengenai apa yang dimaksud kehamilan, bagaimana ibu hamil yang sehat, kebutuhan zat gizi, dan dampak kekurangan gizi ya Moms.",
+          "sources": [
+            "https://gitlab.com/xyzuan/dbsehatin/-/raw/main/2.mp4"
+          ],
+          "thumb": "https://gitlab.com/ixyzuan/pintarin_db/-/raw/main/programing/thumb/1_Introducing_IT_thumb.jpg"
+        },
+        {
+          "title": "Kebutuhan Zat Gizi Saat Hamil",
+          "description": "Nutrisi untuk ibu hamil harus mendapat perhatian serius karena kehamilan merupakan masa awal janin untuk berkembang. Kebutuhan nutrisi lengkap dan vitamin ibu hamil harus terus terpenuhi hingga bayi lahir dan masuk ke tahap menyusui.",
+          "sources": [
+            "https://gitlab.com/xyzuan/dbsehatin/-/raw/main/1.MP4"
+          ],
+          "thumb": "https://gitlab.com/ixyzuan/pintarin_db/-/raw/main/programing/thumb/3_Operating%20System_thumb.png"
+        },
+        {
+          "title": "Prinsip Gizi Seimbang Untuk Ibu Hamil",
+          "description": "Sudah makan sehat kah Moms hari ini? Memenuhi kebutuhan gizi dan nutrisi sangatlah penting dilakukan oleh ibu hamil untuk mendukung tumbuh kembang si kecil dalam kandungan. Jangan sampai karena Ngidam, moms jadi tidak memerdulikan nutrisi dan asupan yang dikonsumsi ya. Yuk lakukan prinsip gizi seimbang dengan benar Moms.",
+          "sources": [
+            "https://gitlab.com/xyzuan/dbsehatin/-/raw/main/3.MP4"
+          ],
+          "thumb": "https://gitlab.com/ixyzuan/pintarin_db/-/raw/main/programing/thumb/4_Father%20Of%20C_thumb.png"
+        }
+      ]
+    }
+  ]
+}
